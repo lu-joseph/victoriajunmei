@@ -66,7 +66,28 @@ export default function App() {
           <p>Love,</p>
           <p>Joseph</p>
         </div>
-        <div className="gallery"></div>
+
+        <div className="gallery">
+          <img src="./images/1.jpg" alt=""></img>
+          <img src="./images/2.jpg" alt=""></img>
+          <img src="./images/3.jpg" alt=""></img>
+          <img src="./images/4.jpg" alt=""></img>
+          <img src="./images/5.jpg" alt=""></img>
+          <img src="./images/6.jpg" alt=""></img>
+          <img src="./images/7.jpg" alt=""></img>
+          <img src="./images/8.jpg" alt=""></img>
+          <img src="./images/9.jpg" alt=""></img>
+          <img src="./images/10.jpg" alt=""></img>
+          <img src="./images/11.jpg" alt=""></img>
+          <img src="./images/12.jpg" alt=""></img>
+          <img src="./images/13.jpg" alt=""></img>
+          <img src="./images/14.jpg" alt=""></img>
+          <img src="./images/15.jpg" alt=""></img>
+          <img src="./images/16.jpg" alt=""></img>
+          <img src="./images/17.jpg" alt=""></img>
+          <img src="./images/18.jpg" alt=""></img>
+          <img src="./images/19.jpg" alt=""></img>
+        </div>
       </div>
     </div>
   );
